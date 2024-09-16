@@ -1,0 +1,7 @@
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\bin\Debug\DOTNET Akshata Lab2.exe.config
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\bin\Debug\DOTNET Akshata Lab2.exe
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\bin\Debug\DOTNET Akshata Lab2.pdb
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\obj\Debug\DOTNET Akshata Lab2.csproj.AssemblyReference.cache
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\obj\Debug\DOTNET Akshata Lab2.csproj.CoreCompileInputs.cache
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\obj\Debug\DOTNET Akshata Lab2.exe
+D:\MERO FILE\5th Semester\Dot Net Technology\Akshata\DOTNET Akshata Lab2\obj\Debug\DOTNET Akshata Lab2.pdb
